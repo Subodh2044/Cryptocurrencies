@@ -6,3 +6,5 @@ I am using pandas for data wrangling and process as to fit in the machine learni
 
 ## Output
 
+![image](https://user-images.githubusercontent.com/67131400/105272378-d8f63680-5b5e-11eb-9767-8f008e1d2e92.png)
+![image](https://user-images.githubusercontent.com/67131400/105272401-e14e7180-5b5e-11eb-8eeb-9d24049a77ae.png)
